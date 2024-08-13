@@ -1,13 +1,12 @@
-
-
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Jouini</h1>
 <h3 align="center">A novice Full Stack JavaScript Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+
 🌱 I’m currently learning advanced JavaScript frameworks
 
-📫 How to reach me mohamedazizjouini63@gmail.com
+📫 How to reach me: mohamedazizjouini63@gmail.com
 
-⚡ Fun fact I'm always eager to learn new things
+⚡ Fun fact: I'm always eager to learn new things
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,6 +31,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -45,6 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaziz14&show_icons=true&locale=en&layout=compact" alt="mohamedaziz14" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaziz14&show_icons=true&locale=en" alt="mohamedaziz14" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaziz14&" alt="mohamedaziz14" /></p>
