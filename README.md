@@ -1,5 +1,4 @@
 
-Here’s a modified version of the content, consistent with your CV:
 
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Jouini</h1>
 <h3 align="center">A novice Full Stack JavaScript Developer from Tunisia</h3>
