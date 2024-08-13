@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 🌱 I’m currently learning advanced JavaScript frameworks
 
-💬 Ask me about React, Node.js
-
 📫 How to reach me mohamedazizjouini63@gmail.com
 
 ⚡ Fun fact I'm always eager to learn new things
